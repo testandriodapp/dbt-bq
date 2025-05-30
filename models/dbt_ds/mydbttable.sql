@@ -1,1 +1,1 @@
-SELECT ProductID FROM `model-caldron-453916-n6.dbt_tutorial.dim_products`
+SELECT * FROM `model-caldron-453916-n6.dbt_tutorial.dim_products`
